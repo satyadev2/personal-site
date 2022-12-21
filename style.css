@@ -44,18 +44,16 @@ li {
 }
 
 .nav-links a {
-  color: rgb(221, 213, 213);
+  color: rgb(249, 249, 249);
 }
 .nav-links a:hover {
-  color: rgb(5, 5, 5);
+  color: rgb(83, 79, 79);
 }
 
-/* LOGO */
 .logo {
   font-size: 12px;
 }
 
-/* NAVBAR MENU */
 .menu {
   display: flex;
   gap: 1em;
@@ -63,7 +61,7 @@ li {
 }
 
 .menu li:hover {
-  color: black;
+  color: rgb(207, 26, 26);
 }
 
 .menu li {
